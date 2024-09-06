@@ -103,4 +103,10 @@ body {
     .container{
         width: 80vw;
     }
+
+    .btn:hover {
+        background-color: var(--primary-600);
+        border: 0px solid var(--primary-600);
+        transition: 40ms ease;
+    }
 }
