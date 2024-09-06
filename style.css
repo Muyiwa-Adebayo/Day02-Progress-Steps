@@ -106,7 +106,7 @@ body {
 
     .btn:hover {
         background-color: var(--primary-600);
-        border: 0px solid var(--primary-600);
+        border: 0px solid;
         transition: 40ms ease;
     }
 }
